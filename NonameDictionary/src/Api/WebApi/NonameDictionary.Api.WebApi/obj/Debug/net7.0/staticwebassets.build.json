@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uB7YtVmpdj1IWtEyJqC3heEtaQLzmyTX2L4n/ON7itE=",
+  "Source": "NonameDictionary.Api.WebApi",
+  "BasePath": "_content/NonameDictionary.Api.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
