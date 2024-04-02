@@ -1,0 +1,16 @@
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\bin\Debug\net7.0\NonameDictionary.Api.Domain.deps.json
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\bin\Debug\net7.0\NonameDictionary.Api.Domain.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\bin\Debug\net7.0\NonameDictionary.Api.Domain.pdb
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\bin\Debug\net7.0\NonameDictionary.Common.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\bin\Debug\net7.0\NonameDictionary.Common.pdb
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.AssemblyInfo.cs
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.sourcelink.json
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDi.88CB1D6F.Up2Date
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\refint\NonameDictionary.Api.Domain.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\NonameDictionary.Api.Domain.pdb
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Domain\obj\Debug\net7.0\ref\NonameDictionary.Api.Domain.dll

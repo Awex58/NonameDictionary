@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NonameDictionary.Api.Application
-build_property.ProjectDir = C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\
+build_property.ProjectDir = C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

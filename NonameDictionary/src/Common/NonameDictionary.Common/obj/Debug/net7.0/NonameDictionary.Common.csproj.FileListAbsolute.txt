@@ -1,0 +1,12 @@
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\bin\Debug\net7.0\NonameDictionary.Common.deps.json
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\bin\Debug\net7.0\NonameDictionary.Common.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\bin\Debug\net7.0\NonameDictionary.Common.pdb
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.AssemblyInfoInputs.cache
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.AssemblyInfo.cs
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.sourcelink.json
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\refint\NonameDictionary.Common.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.pdb
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\ref\NonameDictionary.Common.dll
