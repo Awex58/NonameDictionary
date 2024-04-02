@@ -1,0 +1,12 @@
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\bin\Debug\net7.0\NonameDictionary.Api.Application.deps.json
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\bin\Debug\net7.0\NonameDictionary.Api.Application.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\bin\Debug\net7.0\NonameDictionary.Api.Application.pdb
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.AssemblyInfoInputs.cache
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.AssemblyInfo.cs
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.sourcelink.json
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\refint\NonameDictionary.Api.Application.dll
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.pdb
+C:\Users\YunusEmreYiğit\Documents\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\ref\NonameDictionary.Api.Application.dll

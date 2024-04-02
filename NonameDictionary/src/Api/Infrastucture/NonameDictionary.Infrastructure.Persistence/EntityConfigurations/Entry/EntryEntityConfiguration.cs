@@ -22,7 +22,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations.Entry
 
         }
 
-
+        
 
 
 

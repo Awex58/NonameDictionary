@@ -13,6 +13,10 @@ namespace NonameDictionary.Infrastructure.Persistence.Context
     {
         public const string DEFAULT_SCHEMA = "dbo";
 
+        public NonameDictionaryContext()
+        {
+            
+        }
         public NonameDictionaryContext(DbContextOptions options) : base(options)
         {
         }
@@ -31,6 +35,20 @@ namespace NonameDictionary.Infrastructure.Persistence.Context
         public DbSet<EntryCommentVote> EntryCommentVotes { get; set; }
         public DbSet<EntryCommentFavorite> EntryCommentFavorites { get; set; }
 
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) //migration için kullanılacak sadece asıl olan webbapi appsettingste
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                var connStr = "Server=localhost;Database=NonameDb;User=sa;Password=12345;TrustServerCertificate=True;Pooling=true;";
+
+                optionsBuilder.UseSqlServer(connStr, opt =>
+                {
+                    opt.EnableRetryOnFailure();
+
+                });
+            }
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NonameDictionary.Projections.UserService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+465c370dc3ca6288227370cc4f59b7df428f55b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("NonameDictionary.Projections.UserService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NonameDictionary.Projections.UserService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

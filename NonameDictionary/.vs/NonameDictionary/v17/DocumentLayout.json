@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\migrations\\20240402142656_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\migrations\\20240402142656_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\migrations\\nonamedictionarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\migrations\\nonamedictionarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entrycomment\\entrycommententityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entrycomment\\entrycommententityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\context\\nonamedictionarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\context\\nonamedictionarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\emailconfirmationentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\emailconfirmationentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976298FF-E78C-479F-A94A-3629D24B3E2C}|src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\NonameDictionary.Api.WebApi.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\webapi\\nonamedictionary.api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{976298FF-E78C-479F-A94A-3629D24B3E2C}|src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\NonameDictionary.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\nonamedictionary.api.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\extensions\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entry\\entryfavoriteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entry\\entryfavoriteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entry\\entryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entry\\entryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entrycomment\\entrycommentvoteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entrycomment\\entrycommentvoteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entrycomment\\entrycommentfavoriteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entrycomment\\entrycommentfavoriteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entry\\entryvoteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\entityconfigurations\\entry\\entryvoteentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976298FF-E78C-479F-A94A-3629D24B3E2C}|src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\NonameDictionary.Api.WebApi.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\webapi\\nonamedictionary.api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976298FF-E78C-479F-A94A-3629D24B3E2C}|src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\NonameDictionary.Api.WebApi.csproj|solutionrelative:src\\api\\webapi\\nonamedictionary.api.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\nonamedictionary.infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6746D32A-C67D-46A5-8C0E-72E8E8F6BF3A}|src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj|solutionrelative:src\\api\\infrastucture\\nonamedictionary.infrastructure.persistence\\nonamedictionary.infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\entrycommentfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\entrycommentfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\entrycommentvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\entrycommentvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\entrycomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\entrycomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\entryfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\entryfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9846EBAD-1851-4A0E-BA18-BD5F6A8779B1}|src\\Api\\Core\\NonameDictionary.Api.Application\\NonameDictionary.Api.Application.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.application\\nonamedictionary.api.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9846EBAD-1851-4A0E-BA18-BD5F6A8779B1}|src\\Api\\Core\\NonameDictionary.Api.Application\\NonameDictionary.Api.Application.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.application\\nonamedictionary.api.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\emailconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\emailconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\entryvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\entryvote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191763BC-5448-43BB-875F-5D4EA3D7ABE3}|src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\common\\nonamedictionary.common\\viewmodels\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191763BC-5448-43BB-875F-5D4EA3D7ABE3}|src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj|solutionrelative:src\\common\\nonamedictionary.common\\viewmodels\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|c:\\users\\yunusemreyi\u011Fit\\documents\\github\\nonamedictionary\\nonamedictionary\\src\\api\\core\\nonamedictionary.api.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD0AEB8-87FD-4651-9152-6F6F49D0690C}|src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj|solutionrelative:src\\api\\core\\nonamedictionary.api.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NonameDictionaryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\NonameDictionaryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\NonameDictionaryContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\NonameDictionaryContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\NonameDictionaryContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:33:06.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240402142656_InitMigration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\20240402142656_InitMigration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\20240402142656_InitMigration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\20240402142656_InitMigration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Migrations\\20240402142656_InitMigration.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAqwKUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:26:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailConfirmationEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EmailConfirmationEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EmailConfirmationEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EmailConfirmationEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EmailConfirmationEntityConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NonameDictionaryContext.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Context\\NonameDictionaryContext.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Context\\NonameDictionaryContext.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Context\\NonameDictionaryContext.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Context\\NonameDictionaryContext.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAASwCoAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T12:11:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntryEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryEntityConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntryFavoriteEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryFavoriteEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryFavoriteEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryFavoriteEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryFavoriteEntityConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBUAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Extensions\\Registration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Extensions\\Registration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Extensions\\Registration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\Extensions\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:07:20.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntryCommentEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentEntityConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\BaseEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\BaseEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\BaseEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\BaseEntityConfiguration.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntryCommentVoteEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentVoteEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentVoteEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentVoteEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentVoteEntityConfiguration.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBMAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntryCommentFavoriteEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentFavoriteEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentFavoriteEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentFavoriteEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\EntryComment\\EntryCommentFavoriteEntityConfiguration.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntryVoteEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryVoteEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryVoteEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryVoteEntityConfiguration.cs",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\EntityConfigurations\\Entry\\EntryVoteEntityConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\Api\\WebApi\\NonameDictionary.Api.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:32:02.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NonameDictionary.Infrastructure.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj",
+              "RelativeDocumentMoniker": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj",
+              "RelativeToolTip": "src\\Api\\Infrastucture\\NonameDictionary.Infrastructure.Persistence\\NonameDictionary.Infrastructure.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:27:24.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EntryComment.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryComment.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryComment.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryComment.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryComment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EntryCommentVote.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentVote.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentVote.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentVote.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentVote.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EntryCommentFavorite.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentFavorite.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentFavorite.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentFavorite.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryCommentFavorite.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntryFavorite.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryFavorite.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryFavorite.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryFavorite.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryFavorite.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NonameDictionary.Api.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Application\\NonameDictionary.Api.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Application\\NonameDictionary.Api.Application.csproj",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Application\\NonameDictionary.Api.Application.csproj",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Application\\NonameDictionary.Api.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:27:24.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\Entry.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\Entry.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\Entry.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\Entry.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EmailConfirmation.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EmailConfirmation.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EmailConfirmation.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EmailConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EntryVote.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryVote.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryVote.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryVote.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\EntryVote.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\ViewModels\\Enums.cs",
+              "RelativeDocumentMoniker": "src\\Common\\NonameDictionary.Common\\ViewModels\\Enums.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\ViewModels\\Enums.cs",
+              "RelativeToolTip": "src\\Common\\NonameDictionary.Common\\ViewModels\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\YunusEmreYi\u011Fit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\User.cs",
+              "RelativeToolTip": "src\\Api\\Core\\NonameDictionary.Api.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:27:24.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
