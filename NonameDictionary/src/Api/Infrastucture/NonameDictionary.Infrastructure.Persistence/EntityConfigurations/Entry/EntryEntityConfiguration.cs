@@ -16,7 +16,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations.Entry
         {
             base.Configure(builder);
 
-            builder.ToTable("entry", NonameDictionaryContext.DEFAULT_SCHEMA);
+            builder.ToTable("Entry", NonameDictionaryContext.DEFAULT_SCHEMA);
 
             builder.HasOne(i=>i.CreatedBy).WithMany(i=>i.Entries).HasForeignKey(i=>i.CreatedById);
 

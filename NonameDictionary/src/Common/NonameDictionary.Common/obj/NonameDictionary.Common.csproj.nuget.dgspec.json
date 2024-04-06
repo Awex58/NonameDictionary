@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj": {}
+    "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj": {
+    "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj",
         "projectName": "NonameDictionary.Common",
-        "projectPath": "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj",
-        "packagesPath": "C:\\Users\\YunusEmreYiğit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\obj\\",
+        "projectPath": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj",
+        "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\YunusEmreYiğit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

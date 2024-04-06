@@ -16,7 +16,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations
         {
             base.Configure(builder);
 
-            builder.ToTable("user",NonameDictionaryContext.DEFAULT_SCHEMA);
+            builder.ToTable("User",NonameDictionaryContext.DEFAULT_SCHEMA);
         }
     }
 }

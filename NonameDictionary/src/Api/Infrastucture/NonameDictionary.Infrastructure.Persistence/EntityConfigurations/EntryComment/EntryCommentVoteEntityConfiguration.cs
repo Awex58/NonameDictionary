@@ -16,7 +16,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations.Entry
         {
             base.Configure(builder);
 
-            builder.ToTable("entrycommentvote", NonameDictionaryContext.DEFAULT_SCHEMA);
+            builder.ToTable("EntryCommentVote", NonameDictionaryContext.DEFAULT_SCHEMA);
             builder.HasOne(i => i.EntryComment).WithMany(i => i.EntryCommentVotes).HasForeignKey(i => i.EntryCommentId);
         }
     }

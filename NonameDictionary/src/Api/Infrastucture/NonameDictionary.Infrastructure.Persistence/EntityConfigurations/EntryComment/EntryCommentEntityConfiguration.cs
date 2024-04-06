@@ -14,7 +14,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations.Entry
         public override void Configure(EntityTypeBuilder<Api.Domain.Models.EntryComment> builder)
         {
             base.Configure(builder);
-            builder.ToTable("entrycomment", NonameDictionaryContext.DEFAULT_SCHEMA);
+            builder.ToTable("EntryComment", NonameDictionaryContext.DEFAULT_SCHEMA);
 
             builder.HasOne(i => i.CreatedBy).
                 WithMany(i => i.EntryComments)

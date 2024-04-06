@@ -15,7 +15,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations.Entry
         public override void Configure(EntityTypeBuilder<EntryFavorite> builder)
         {
             base.Configure(builder);
-            builder.ToTable("entryfavorite", NonameDictionaryContext.DEFAULT_SCHEMA);
+            builder.ToTable("EntryFavorite", NonameDictionaryContext.DEFAULT_SCHEMA);
 
             builder.HasOne(i => i.Entry).WithMany(i => i.EntryFavorites).HasForeignKey(i => i.EntryId);
 

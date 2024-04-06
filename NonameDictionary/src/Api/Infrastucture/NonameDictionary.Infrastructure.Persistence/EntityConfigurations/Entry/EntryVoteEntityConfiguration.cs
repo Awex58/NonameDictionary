@@ -15,7 +15,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations.Entry
         public override void Configure(EntityTypeBuilder<EntryVote> builder)
         {
             base.Configure(builder);
-            builder.ToTable("entryvote", NonameDictionaryContext.DEFAULT_SCHEMA);
+            builder.ToTable("EntryVote", NonameDictionaryContext.DEFAULT_SCHEMA);
             builder.HasOne(x => x.Entry).WithMany(x => x.EntryVotes).HasForeignKey(x => x.EntryId);
         }
     }

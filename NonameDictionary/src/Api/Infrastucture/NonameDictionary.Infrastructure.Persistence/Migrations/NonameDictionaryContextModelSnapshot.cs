@@ -42,7 +42,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("emailconfirmation", "dbo");
+                    b.ToTable("EmailConfirmation", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.Entry", b =>
@@ -70,7 +70,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasIndex("CreatedById");
 
-                    b.ToTable("entry", "dbo");
+                    b.ToTable("Entry", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.EntryComment", b =>
@@ -99,7 +99,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasIndex("EntryId");
 
-                    b.ToTable("entrycomment", "dbo");
+                    b.ToTable("EntryComment", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.EntryCommentFavorite", b =>
@@ -124,7 +124,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasIndex("EntryCommentId");
 
-                    b.ToTable("entrycommentfavorite", "dbo");
+                    b.ToTable("EntryCommentFavorite", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.EntryCommentVote", b =>
@@ -150,7 +150,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasIndex("EntryCommentId");
 
-                    b.ToTable("entrycommentvote", "dbo");
+                    b.ToTable("EntryCommentVote", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.EntryFavorite", b =>
@@ -175,7 +175,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasIndex("EntryId");
 
-                    b.ToTable("entryfavorite", "dbo");
+                    b.ToTable("EntryFavorite", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.EntryVote", b =>
@@ -201,7 +201,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasIndex("EntryId");
 
-                    b.ToTable("entryvote", "dbo");
+                    b.ToTable("EntryVote", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.User", b =>
@@ -239,7 +239,7 @@ namespace NonameDictionary.Infrastructure.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("user", "dbo");
+                    b.ToTable("User", "dbo");
                 });
 
             modelBuilder.Entity("NonameDictionary.Api.Domain.Models.Entry", b =>

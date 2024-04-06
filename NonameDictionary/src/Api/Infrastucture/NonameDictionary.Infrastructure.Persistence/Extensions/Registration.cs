@@ -23,6 +23,8 @@ namespace NonameDictionary.Infrastructure.Persistence.Extensions
                     
                 });
             });
+            //var seedata = new SeedData();
+            //seedata.SeedAsync(configuration).GetAwaiter().GetResult();   tabloları dumb veri ile dolduruyor 1 kere çalıştırıldı
 
             return services;
         }

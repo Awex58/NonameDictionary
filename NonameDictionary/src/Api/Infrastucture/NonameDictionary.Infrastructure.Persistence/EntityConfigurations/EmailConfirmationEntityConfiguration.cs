@@ -16,7 +16,7 @@ namespace NonameDictionary.Infrastructure.Persistence.EntityConfigurations
         {
             base.Configure(builder);
 
-            builder.ToTable("emailconfirmation", NonameDictionaryContext.DEFAULT_SCHEMA);
+            builder.ToTable("EmailConfirmation", NonameDictionaryContext.DEFAULT_SCHEMA);
 
         }
     }

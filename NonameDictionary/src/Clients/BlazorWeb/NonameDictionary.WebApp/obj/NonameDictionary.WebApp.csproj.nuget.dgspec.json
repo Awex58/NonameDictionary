@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj": {}
+    "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj": {
+    "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj",
         "projectName": "NonameDictionary.WebApp",
-        "projectPath": "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj",
-        "packagesPath": "C:\\Users\\YunusEmreYiğit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YunusEmreYiğit\\Documents\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\obj\\",
+        "projectPath": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\NonameDictionary.WebApp.csproj",
+        "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Clients\\BlazorWeb\\NonameDictionary.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\YunusEmreYiğit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,24 +48,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.12, )"
-            },
-            "Microsoft.NET.ILLink.Analyzers": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.100-1.23211.1, )",
-              "autoReferenced": true
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.100-1.23211.1, )",
-              "autoReferenced": true
-            },
-            "Microsoft.NET.Sdk.WebAssembly.Pack": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.3, )",
-              "autoReferenced": true
             }
           },
           "imports": [
@@ -84,12 +61,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[7.0.12, 7.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
