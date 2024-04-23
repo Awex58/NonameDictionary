@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "NonameDictionary.Api.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "NonameDictionary.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NonameDictionary.Api.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NonameDictionary.Api.Domain.dll": {}
+        }
+      },
+      "NonameDictionary.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/NonameDictionary.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NonameDictionary.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NonameDictionary.Api.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NonameDictionary.Api.Domain/NonameDictionary.Api.Domain.csproj",
+      "msbuildProject": "../NonameDictionary.Api.Domain/NonameDictionary.Api.Domain.csproj"
+    },
+    "NonameDictionary.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/NonameDictionary.Common/NonameDictionary.Common.csproj",
+      "msbuildProject": "../../../Common/NonameDictionary.Common/NonameDictionary.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "NonameDictionary.Api.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\yunus\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj": {
+              "projectPath": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

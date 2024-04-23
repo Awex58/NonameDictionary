@@ -1105,6 +1105,19 @@
           }
         }
       },
+      "NonameDictionary.Api.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "NonameDictionary.Api.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NonameDictionary.Api.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NonameDictionary.Api.Application.dll": {}
+        }
+      },
       "NonameDictionary.Api.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -1136,6 +1149,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.17",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.17",
+          "NonameDictionary.Api.Application": "1.0.0",
           "NonameDictionary.Api.Domain": "1.0.0"
         },
         "compile": {
@@ -3220,6 +3234,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "NonameDictionary.Api.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/NonameDictionary.Api.Application/NonameDictionary.Api.Application.csproj",
+      "msbuildProject": "../../Core/NonameDictionary.Api.Application/NonameDictionary.Api.Application.csproj"
     },
     "NonameDictionary.Api.Domain/1.0.0": {
       "type": "project",

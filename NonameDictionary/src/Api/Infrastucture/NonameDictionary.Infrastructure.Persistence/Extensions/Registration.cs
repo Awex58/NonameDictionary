@@ -1,7 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using NonameDictionary.Api.Application.Interfaces.Repositories;
 using NonameDictionary.Infrastructure.Persistence.Context;
+using NonameDictionary.Infrastructure.Persistence.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,6 +27,8 @@ namespace NonameDictionary.Infrastructure.Persistence.Extensions
             });
             //var seedata = new SeedData();
             //seedata.SeedAsync(configuration).GetAwaiter().GetResult();   tabloları dumb veri ile dolduruyor 1 kere çalıştırıldı
+
+            services.AddScoped<IUserRepository, UserRepository>(); // inject ediyoruz dependency için 
 
             return services;
         }
