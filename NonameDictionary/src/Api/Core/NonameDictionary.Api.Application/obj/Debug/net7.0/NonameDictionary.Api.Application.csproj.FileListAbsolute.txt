@@ -21,3 +21,9 @@ C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Ap
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\refint\NonameDictionary.Api.Application.dll
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.pdb
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\ref\NonameDictionary.Api.Application.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\bin\Debug\net7.0\NonameDictionary.Api.Domain.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\bin\Debug\net7.0\NonameDictionary.Common.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\bin\Debug\net7.0\NonameDictionary.Api.Domain.pdb
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\bin\Debug\net7.0\NonameDictionary.Common.pdb
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.csproj.AssemblyReference.cache
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Core\NonameDictionary.Api.Application\obj\Debug\net7.0\NonameDictionary.Api.Application.csproj.CopyComplete

@@ -29,6 +29,9 @@ namespace NonameDictionary.Infrastructure.Persistence.Extensions
             //seedata.SeedAsync(configuration).GetAwaiter().GetResult();   tabloları dumb veri ile dolduruyor 1 kere çalıştırıldı
 
             services.AddScoped<IUserRepository, UserRepository>(); // inject ediyoruz dependency için 
+            services.AddScoped<IEntryRepository, EntryRepository>();
+            services.AddScoped<IEmailConfirmationRepository, EmailConfirmationRepository>();
+            services.AddScoped<IEntryCommentRepository, EntryCommentRepository>();
 
             return services;
         }

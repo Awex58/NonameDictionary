@@ -21,3 +21,4 @@ C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Co
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\refint\NonameDictionary.Common.dll
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.pdb
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\ref\NonameDictionary.Common.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Common\NonameDictionary.Common\obj\Debug\net7.0\NonameDictionary.Common.csproj.AssemblyReference.cache

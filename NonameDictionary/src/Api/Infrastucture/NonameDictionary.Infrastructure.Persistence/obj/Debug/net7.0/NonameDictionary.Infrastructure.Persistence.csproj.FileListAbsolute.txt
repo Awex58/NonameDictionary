@@ -37,3 +37,5 @@ C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Ap
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Infrastucture\NonameDictionary.Infrastructure.Persistence\obj\Debug\net7.0\NonameDictionary.Infrastructure.Persistence.pdb
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Infrastucture\NonameDictionary.Infrastructure.Persistence\obj\Debug\net7.0\NonameDictionary.Infrastructure.Persistence.genruntimeconfig.cache
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Infrastucture\NonameDictionary.Infrastructure.Persistence\obj\Debug\net7.0\ref\NonameDictionary.Infrastructure.Persistence.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Infrastucture\NonameDictionary.Infrastructure.Persistence\bin\Debug\net7.0\NonameDictionary.Api.Application.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\Infrastucture\NonameDictionary.Infrastructure.Persistence\bin\Debug\net7.0\NonameDictionary.Api.Application.pdb

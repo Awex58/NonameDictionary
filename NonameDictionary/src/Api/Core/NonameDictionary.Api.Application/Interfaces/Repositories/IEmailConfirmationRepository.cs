@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 
 namespace NonameDictionary.Api.Application.Interfaces.Repositories
 {
-    public interface IEntryRespository:IGenericRepository<Entry>
+    public interface IEmailConfirmationRepository: IGenericRepository<EmailConfirmation>
     {
-        
     }
 }

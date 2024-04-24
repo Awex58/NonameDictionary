@@ -155,3 +155,13 @@ C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Ap
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\NonameDictionary.Infrastructure.Persistence.pdb
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\NonameDictionary.Api.Domain.pdb
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\NonameDictionary.Common.pdb
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\NonameDictionary.Api.Application.dll
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\NonameDictionary.Api.Application.pdb

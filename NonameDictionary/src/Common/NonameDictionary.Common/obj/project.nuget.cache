@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MonJjUlnH8qapGsuk06Zd/UfxLEyKrQisk+huKCylykI79q4aug/35C356Ce2xzSWa2ouWCBhth2vjHD8mM5kA==",
+  "dgSpecHash": "ZK0HD21W1YCbYeVlPHwL/9Uu4/tXa4kVrcsoZpN/rkHBzlr5VFjnjVQOTjKBw7LJwNuUNivg9rMGHr6198n0+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Common\\NonameDictionary.Common\\NonameDictionary.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yunus\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\yunus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\yunus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
