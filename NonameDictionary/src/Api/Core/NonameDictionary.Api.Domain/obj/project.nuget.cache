@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "w6fSSOB7qrPzif0Ivl6DQx9nm7G4rWOmmDDnG1mX5Y+QWA7WOy/NJXQq+oNOHLQwN496XB1HiseOW5hYz7Tcpg==",
+  "dgSpecHash": "kGQA2iMv07iGcf0oFI1iK4lSXVJjPJuRJUZoLP9zS6Fk2fBIZoLE94aqTeLMdLDDBGcHBWMb/J5sy/gx/hE9Jw==",
   "success": true,
   "projectFilePath": "C:\\Users\\yunus\\OneDrive\\Belgeler\\GitHub\\NonameDictionary\\NonameDictionary\\src\\Api\\Core\\NonameDictionary.Api.Domain\\NonameDictionary.Api.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yunus\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\yunus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\yunus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\yunus\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\yunus\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\yunus\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

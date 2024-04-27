@@ -165,3 +165,4 @@ C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Ap
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\NonameDictionary.Api.Application.dll
 C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\NonameDictionary.Api.Application.pdb
+C:\Users\yunus\OneDrive\Belgeler\GitHub\NonameDictionary\NonameDictionary\src\Api\WebApi\NonameDictionary.Api.WebApi\bin\Debug\net7.0\RabbitMQ.Client.dll

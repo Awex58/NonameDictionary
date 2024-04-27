@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using NonameDictionary.Api.Domain.Models;
 using NonameDictionary.Common.Models.Queries;
+using NonameDictionary.Common.Models.RequestModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,12 @@ namespace NonameDictionary.Api.Application.Mapping
         public MappingProfile() 
         {
             CreateMap<User, LoginUserViewModel>().ReverseMap();
+
+            CreateMap<User, CreateUserCommand>().ReverseMap();
+
+            CreateMap<User, UpdateUserCommand>().ReverseMap();
+
+
         }
     }
 }

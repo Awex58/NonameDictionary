@@ -40,7 +40,7 @@ namespace NonameDictionary.Api.Application.Features.Commands.User
             if(dbUser.Password != pass)
                 throw new DatabaseValidationException("Password is wrong!");
 
-            if (dbUser.EmailConfirmed)
+            if (dbUser.EmailConfirmed == false)
                 throw new DatabaseValidationException("Email address is not confirmed yet!");
 
             var result = mapper.Map<LoginUserViewModel>(dbUser);

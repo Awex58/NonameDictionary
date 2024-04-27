@@ -24,5 +24,23 @@ namespace NonameDictionary.Api.WebApi.Controllers
 
             return Ok(res);
         }
+
+        [HttpPost]
+        [Route("Create")]
+        public async Task<IActionResult> CreateUser([FromForm] CreateUserCommand command) //[FromBody]
+        {
+            var res = await mediator.Send(command);
+
+            return Ok(res);
+        }
+
+        [HttpPost]
+        [Route("Update")]
+        public async Task<IActionResult> UpdateUser([FromForm] UpdateUserCommand command) //[FromBody]
+        {
+            var res = await mediator.Send(command);
+
+            return Ok(res);
+        }
     }
 }

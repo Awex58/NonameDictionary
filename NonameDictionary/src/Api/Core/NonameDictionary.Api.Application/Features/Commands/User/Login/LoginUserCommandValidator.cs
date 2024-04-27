@@ -18,7 +18,8 @@ namespace NonameDictionary.Api.Application.Features.Commands.User
 
             RuleFor(i => i.Password).NotNull()
                 .MinimumLength(6)
-                .WithMessage("{PropertyName} should at least be {MinLenght} characters");
+                .WithMessage("{PropertyName} should at least be {MinLength} characters");
+
         }
     }
 }
