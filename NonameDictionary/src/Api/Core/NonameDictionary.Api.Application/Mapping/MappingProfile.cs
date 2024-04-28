@@ -20,6 +20,9 @@ namespace NonameDictionary.Api.Application.Mapping
 
             CreateMap<User, UpdateUserCommand>().ReverseMap();
 
+            CreateMap<Entry, CreateEntryCommand>().ReverseMap();
+
+            CreateMap<EntryComment, CreateEntryCommentCommand>().ReverseMap();
 
         }
     }

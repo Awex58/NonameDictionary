@@ -1,13 +1,15 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using NonameDictionary.Api.Application.Features.Commands.User.ConfirmEmail;
+using NonameDictionary.Common.Events.User;
 using NonameDictionary.Common.Models.RequestModels;
 
 namespace NonameDictionary.Api.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController : ControllerBase
+    public class UserController : BaseController
     {
         private readonly IMediator mediator;
 
@@ -42,5 +44,27 @@ namespace NonameDictionary.Api.WebApi.Controllers
 
             return Ok(res);
         }
+
+        [HttpPost]
+        [Route("ConfirmEMail")]
+        public async Task<IActionResult> ConfirmEMail([FromForm] Guid Id) //[FromBody]
+        {
+            var res = await mediator.Send(new ConfirmEmailCommand() { ConfirmationId=Id });
+
+            return Ok(res);
+        }
+
+        [HttpPost]
+        [Route("ChangePassword")]
+        public async Task<IActionResult> ChangePassword([FromForm] ChangeUserPasswordCommand command) //[FromBody]
+        {
+            if (!command.UserId.HasValue)
+                command.UserId = UserId;
+
+            var res = await mediator.Send(command);
+
+            return Ok(res);
+        }
+
     }
 }
