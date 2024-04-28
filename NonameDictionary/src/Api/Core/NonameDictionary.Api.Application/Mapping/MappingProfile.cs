@@ -24,6 +24,8 @@ namespace NonameDictionary.Api.Application.Mapping
 
             CreateMap<EntryComment, CreateEntryCommentCommand>().ReverseMap();
 
+            CreateMap<Entry, GetEntriesViewModel>().ForMember(x =>x.CommentCount, y=>y.MapFrom(z=>z.EntryComments.Count)); //countunu entry ıcerısınde olmadıgı ıcın burdan set edıyoruz
+
         }
     }
 }

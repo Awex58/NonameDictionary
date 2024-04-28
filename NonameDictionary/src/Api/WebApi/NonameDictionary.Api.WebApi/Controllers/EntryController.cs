@@ -1,6 +1,8 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using NonameDictionary.Api.Application.Features.Queries.GetEntries;
+using NonameDictionary.Api.Application.Features.Queries.GetMainPageEntites;
 using NonameDictionary.Common.Models.RequestModels;
 
 namespace NonameDictionary.Api.WebApi.Controllers
@@ -15,6 +17,27 @@ namespace NonameDictionary.Api.WebApi.Controllers
         {
             this.mediator = mediator;
         }
+
+
+        [HttpGet]
+        public async Task<IActionResult> GetEntries([FromQuery]GetEntriesQuery query)
+        {
+            var entries = await mediator.Send(query);
+
+            return Ok(entries);
+        }
+
+        [HttpGet]
+        [Route("MainPageEntries")]
+
+        public async Task<IActionResult> GetMainPageEntries([FromQuery] int page,int pageSize)
+        {
+            var entries = await mediator.Send(new GetMainPageEntriesQuery(UserId,page,pageSize));
+
+            return Ok(entries);
+        }
+
+
 
         [HttpPost]
         [Route("CreateEntry")]

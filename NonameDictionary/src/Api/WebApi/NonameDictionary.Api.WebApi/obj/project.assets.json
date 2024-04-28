@@ -1256,6 +1256,7 @@
           "FluentValidation.DependencyInjectionExtensions": "11.9.1",
           "MediatR": "12.2.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "Microsoft.EntityFrameworkCore": "7.0.17",
           "Microsoft.Extensions.Configuration.Abstractions": "7.0.0",
           "Microsoft.IdentityModel.Tokens": "6.35.0",
           "NonameDictionary.Api.Domain": "1.0.0",
@@ -1286,6 +1287,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "MediatR": "12.2.0",
+          "Microsoft.EntityFrameworkCore": "7.0.17",
           "RabbitMQ.Client": "6.8.1"
         },
         "compile": {
