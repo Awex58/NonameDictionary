@@ -1,8 +1,13 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using NonameDictionary.Api.Application.Features.Queries.GetEntries;
+using NonameDictionary.Api.Application.Features.Queries.GetEntryComments;
+using NonameDictionary.Api.Application.Features.Queries.GetEntryDetail;
 using NonameDictionary.Api.Application.Features.Queries.GetMainPageEntites;
+using NonameDictionary.Api.Application.Features.Queries.GetUserEntries;
+using NonameDictionary.Common.Models.Queries;
 using NonameDictionary.Common.Models.RequestModels;
 
 namespace NonameDictionary.Api.WebApi.Controllers
@@ -17,7 +22,44 @@ namespace NonameDictionary.Api.WebApi.Controllers
         {
             this.mediator = mediator;
         }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(Guid id)
+        {
+            var result = await mediator.Send(new GetEntryDetailQuery(id, UserId));
 
+            return Ok(result);
+        }
+
+
+        [HttpGet]
+        [Route("Comments/{id}")]
+        public async Task<IActionResult> GetEntryComments(Guid id, int page, int pageSize)
+        {
+            var result = await mediator.Send(new GetEntryCommentsQuery(id, UserId, page, pageSize));
+
+            return Ok(result);
+        }
+
+        [HttpGet]
+        [Route("UserEntries")]
+        [Authorize]
+        public async Task<IActionResult> GetUserEntries(string userName, Guid userId, int page, int pageSize)
+        {
+            if (userId == Guid.Empty && string.IsNullOrEmpty(userName))
+                userId = UserId.Value;
+
+            var result = await mediator.Send(new GetUserEntriesQuery(userId, userName, page, pageSize));
+
+            return Ok(result);
+        }
+        [HttpGet]
+        [Route("Search")]
+        public async Task<IActionResult> Search([FromQuery] SearchEntryQuery query)
+        {
+            var result = await mediator.Send(query);
+
+            return Ok(result);
+        }
 
         [HttpGet]
         public async Task<IActionResult> GetEntries([FromQuery]GetEntriesQuery query)
@@ -37,8 +79,6 @@ namespace NonameDictionary.Api.WebApi.Controllers
             return Ok(entries);
         }
 
-
-
         [HttpPost]
         [Route("CreateEntry")]
         public async Task<IActionResult> CreateEntry([FromForm] CreateEntryCommand command) //[FromBody]
@@ -50,6 +90,7 @@ namespace NonameDictionary.Api.WebApi.Controllers
 
             return Ok(res);
         }
+
         [HttpPost]
         [Route("CreateEntryComment")]
         public async Task<IActionResult> CreateEntryComment([FromForm] CreateEntryCommentCommand command) //[FromBody]

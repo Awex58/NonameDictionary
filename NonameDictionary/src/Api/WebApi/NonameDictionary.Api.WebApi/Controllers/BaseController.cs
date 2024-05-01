@@ -8,6 +8,14 @@ namespace NonameDictionary.Api.WebApi.Controllers
     [ApiController]
     public class BaseController : ControllerBase
     {
-        public Guid? UserId => Guid.NewGuid(); // new(HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value); değişicek
+        public Guid? UserId
+        {
+            get
+            {
+                var val = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+
+                return val is null ? null : new Guid(val);
+            }
+        }
     }
 }

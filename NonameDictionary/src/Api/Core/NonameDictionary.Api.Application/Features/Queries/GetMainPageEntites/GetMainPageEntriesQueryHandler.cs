@@ -9,7 +9,8 @@ namespace NonameDictionary.Api.Application.Features.Queries.GetMainPageEntites
 {
     public class GetMainPageEntriesQueryHandler : IRequestHandler<GetMainPageEntriesQuery, PagedViewModel<GetEntryDetailViewModel>>
     {
-         private readonly IEntryRepository entryRepository;
+
+    private readonly IEntryRepository entryRepository;
 
     public GetMainPageEntriesQueryHandler(IEntryRepository entryRepository)
     {

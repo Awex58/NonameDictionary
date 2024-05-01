@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using NonameDictionary.Api.Application.Features.Commands.User.ConfirmEmail;
+using NonameDictionary.Api.Application.Features.Queries.GetUserDetail;
 using NonameDictionary.Common.Events.User;
 using NonameDictionary.Common.Models.RequestModels;
 
@@ -17,6 +18,24 @@ namespace NonameDictionary.Api.WebApi.Controllers
         {
             this.mediator = mediator;
         }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> Get(Guid id)
+        {
+            var user = await mediator.Send(new GetUserDetailQuery(id));
+
+            return Ok(user);
+        }
+
+        [HttpGet]
+        [Route("UserName/{userName}")]
+        public async Task<IActionResult> GetByUserName(string userName)
+        {
+            var user = await mediator.Send(new GetUserDetailQuery(Guid.Empty, userName));
+
+            return Ok(user);
+        }
+
 
         [HttpPost]
         [Route("Login")]
